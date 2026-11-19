@@ -1,0 +1,6 @@
+{
+  "name": "Nespresso Singapore — Original Coffee Machines",
+  "description": "Order Nespresso Original coffee machines in Singapore. Explore Essenza Mini, Pixie, CitiZ Platinum, Lattissima One, and Creatista Plus with 19-bar extraction and complimentary delivery over S$80.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
